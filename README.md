@@ -27,7 +27,7 @@ WeaveSwap is a decentralized cross-chain swap application developed as part of t
 - **Smart Contracts:** Solidity, Chainlink CCIP, Ethers, Javascript, Typescript, Hardhat, Avalanche, Polygon
 - **Frontend:** Next.js, Redux,Tailwind
 - **Backend:** Node.js (or relevant backend technology)
-- **Blockchain Networks:** Right now for hackathon purpose we have completed all chains from and to sepolia
+- **Blockchain Networks:** Right now for hackathon purpose we have completed all chains from and to sepolia(only mumbai and binance chain contract has been verified)
 
 ## Getting Started
 
