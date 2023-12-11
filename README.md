@@ -111,8 +111,8 @@ For accessing and working with the smart contracts, follow these steps:
 
 - Access the WeaveSwap platform through the provided interface.
 - Connect your wallet (MetaMask, etc.) to the supported blockchain network.
-- Select the tokens/assets you want to swap and initiate the transaction.
-- Confirm the transaction details and complete the swap.
+- While testing the frontend in the vercel link we have included only verified contracts chain (Mumbai and Binance) but smart contracts were deployed on all the chains to and from sepolia.
+- You need to have chainlink test LINK tokens to try in video we have shown approve function as there are some errors in frontend vercel for execution of swap and fund function but the smart contracts are working super fine.
 
 
 ## License
